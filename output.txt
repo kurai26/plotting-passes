@@ -1,0 +1,73 @@
+i, d
+i, n, d, e, x
+p, e, r, i, o, d
+t, i, m, e, s, t, a, m, p
+m, i, n, u, t, e
+s, e, c, o, n, d
+p, o, s, s, e, s, s, i, o, n
+d, u, r, a, t, i, o, n
+m, a, t, c, h, _, i, d
+t, y, p, e, _, i, d
+t, y, p, e, _, n, a, m, e
+p, o, s, s, e, s, s, i, o, n, _, t, e, a, m, _, i, d
+p, o, s, s, e, s, s, i, o, n, _, t, e, a, m, _, n, a, m, e
+p, l, a, y, _, p, a, t, t, e, r, n, _, i, d
+p, l, a, y, _, p, a, t, t, e, r, n, _, n, a, m, e
+t, e, a, m, _, i, d
+t, e, a, m, _, n, a, m, e
+t, a, c, t, i, c, s, _, f, o, r, m, a, t, i, o, n
+p, l, a, y, e, r, _, i, d
+p, l, a, y, e, r, _, n, a, m, e
+p, o, s, i, t, i, o, n, _, i, d
+p, o, s, i, t, i, o, n, _, n, a, m, e
+p, a, s, s, _, r, e, c, i, p, i, e, n, t, _, i, d
+p, a, s, s, _, r, e, c, i, p, i, e, n, t, _, n, a, m, e
+p, a, s, s, _, l, e, n, g, t, h
+p, a, s, s, _, a, n, g, l, e
+p, a, s, s, _, h, e, i, g, h, t, _, i, d
+p, a, s, s, _, h, e, i, g, h, t, _, n, a, m, e
+e, n, d, _, x
+e, n, d, _, y
+b, o, d, y, _, p, a, r, t, _, i, d
+b, o, d, y, _, p, a, r, t, _, n, a, m, e
+s, u, b, _, t, y, p, e, _, i, d
+s, u, b, _, t, y, p, e, _, n, a, m, e
+x
+y
+u, n, d, e, r, _, p, r, e, s, s, u, r, e
+o, u, t, c, o, m, e, _, i, d
+o, u, t, c, o, m, e, _, n, a, m, e
+o, u, t
+c, o, u, n, t, e, r, p, r, e, s, s
+p, a, s, s, _, d, e, f, l, e, c, t, e, d
+p, a, s, s, _, s, w, i, t, c, h
+t, e, c, h, n, i, q, u, e, _, i, d
+t, e, c, h, n, i, q, u, e, _, n, a, m, e
+p, a, s, s, _, c, r, o, s, s
+o, f, f, _, c, a, m, e, r, a
+s, h, o, t, _, s, t, a, t, s, b, o, m, b, _, x, g
+e, n, d, _, z
+s, h, o, t, _, f, i, r, s, t, _, t, i, m, e
+g, o, a, l, k, e, e, p, e, r, _, p, o, s, i, t, i, o, n, _, i, d
+g, o, a, l, k, e, e, p, e, r, _, p, o, s, i, t, i, o, n, _, n, a, m, e
+b, a, l, l, _, r, e, c, o, v, e, r, y, _, r, e, c, o, v, e, r, y, _, f, a, i, l, u, r, e
+p, a, s, s, _, a, s, s, i, s, t, e, d, _, s, h, o, t, _, i, d
+p, a, s, s, _, s, h, o, t, _, a, s, s, i, s, t
+s, h, o, t, _, k, e, y, _, p, a, s, s, _, i, d
+f, o, u, l, _, w, o, n, _, d, e, f, e, n, s, i, v, e
+a, e, r, i, a, l, _, w, o, n
+p, a, s, s, _, g, o, a, l, _, a, s, s, i, s, t
+s, u, b, s, t, i, t, u, t, i, o, n, _, r, e, p, l, a, c, e, m, e, n, t, _, i, d
+s, u, b, s, t, i, t, u, t, i, o, n, _, r, e, p, l, a, c, e, m, e, n, t, _, n, a, m, e
+f, o, u, l, _, c, o, m, m, i, t, t, e, d, _, o, f, f, e, n, s, i, v, e
+s, h, o, t, _, o, n, e, _, o, n, _, o, n, e
+d, r, i, b, b, l, e, _, o, v, e, r, r, u, n
+b, l, o, c, k, _, d, e, f, l, e, c, t, i, o, n
+b, a, d, _, b, e, h, a, v, i, o, u, r, _, c, a, r, d, _, i, d
+b, a, d, _, b, e, h, a, v, i, o, u, r, _, c, a, r, d, _, n, a, m, e
+p, a, s, s, _, n, o, _, t, o, u, c, h
+b, l, o, c, k, _, s, a, v, e, _, b, l, o, c, k
+f, o, u, l, _, c, o, m, m, i, t, t, e, d, _, a, d, v, a, n, t, a, g, e
+f, o, u, l, _, w, o, n, _, a, d, v, a, n, t, a, g, e
+f, o, u, l, _, c, o, m, m, i, t, t, e, d, _, c, a, r, d, _, i, d
+f, o, u, l, _, c, o, m, m, i, t, t, e, d, _, c, a, r, d, _, n, a, m, e
